@@ -1,6 +1,7 @@
 package Searching;
 
-public class MaxWealth {    public static void main(String[] args){
+public class MaxWealth {    
+    public static void main(String[] args){
 
     }
 

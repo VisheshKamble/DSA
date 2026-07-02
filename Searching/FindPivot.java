@@ -6,6 +6,7 @@ public class FindPivot {
         int pivot = findPivot(arr);
         System.out.println(pivot);
     }
+    //this will not work for duplicate rotated array
     static int findPivot(int[] arr){
         int start = 0 ; 
         int end = arr.length - 1;

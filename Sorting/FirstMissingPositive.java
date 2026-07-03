@@ -11,7 +11,7 @@ public class FirstMissingPositive {
         int i = 0 ;
         while (i < arr.length){
             int correct = arr[i] - 1 ;
-            if(arr[i] > 0 && arr[i] < arr.length && arr[i] != arr[correct]){
+            if(arr[i] > 0 && arr[i] <= arr.length && arr[i] != arr[correct]){
                 //swap
                 int temp = arr[i] ;
                 arr[i] = arr[correct] ;

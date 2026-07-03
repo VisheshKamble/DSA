@@ -1,4 +1,4 @@
-package Sorting;
+
 
 // Leetcode 33. Missing Number
 public class MissingNumber {

@@ -1,4 +1,4 @@
-package Sorting;
+
 import java.util.Arrays;
 
 //when ever we have to sort the numbers from 1 to n then we can use cyclic sort because it will place the numbers at their correct index

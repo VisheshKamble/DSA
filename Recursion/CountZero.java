@@ -10,8 +10,8 @@ public class CountZero {
     static int count(int n){
         return helper(n, 0);
     }
-
-    public static int helper(int n , int count){
+ //special pattern to pass value in recursion function lower function to upper function
+     public static int helper(int n , int count){
         if(n == 0){
             return count ;
         }

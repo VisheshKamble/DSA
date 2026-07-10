@@ -6,7 +6,6 @@ public class FindAllTarget {
         int [] arr = {1,2,3,4,4,4,5} ;
         find(arr , 4 , 0);
         System.out.println(list);
-
     }
 
     static ArrayList<Integer> list = new ArrayList<>();

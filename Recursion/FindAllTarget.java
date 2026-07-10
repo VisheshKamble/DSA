@@ -8,6 +8,9 @@ public class FindAllTarget {
         System.out.println(list);
     }
 
+
+    //using static variable 
+    
     static ArrayList<Integer> list = new ArrayList<>();
 
     static void find (int[] arr , int target , int index){
@@ -19,6 +22,19 @@ public class FindAllTarget {
             list.add(index);
         }
         find(arr , target , index + 1);
+    }
+
+    //using return type
+
+    static ArrayList<Integer> findAllIndex (int[] arr , int target , int index , ArrayList<Integer> list){
+        if(index == arr.length){
+            return list ;
+        }
+
+        if(arr[index] == target ){
+            list.add(index);
+        }
+        return findAllIndex(arr , target , index + 1 , list);
     }
 
 

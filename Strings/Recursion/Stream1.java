@@ -5,7 +5,7 @@ public class Stream1 {
         System.out.println(skip("baccad"));
 
     }
-
+//Using Recusion to skip the character 'a' from the string
     static String skip (String up){
         if(up.isEmpty()){
             return " " ;

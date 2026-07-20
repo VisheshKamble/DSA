@@ -41,7 +41,9 @@ public class BackTracking {
         if(c > 0){
             backtracking(p + 'L' , maze , r , c - 1);
         }
-      
+
+
+      //this is the line where we are backtracking and making the cell true again so that it can be used in other paths
         maze[r][c] = true ;
 
     }

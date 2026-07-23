@@ -127,6 +127,28 @@ public class LL {
     return node ;
   }
 
+
+  //to get the particular node by value in the list
+
+
+  public Node findNode (int value){
+    Node node = head ;
+
+    while(node != null){
+
+        if(node.val == value){
+            return node ;
+        }
+
+        node = node.next ;
+    }
+
+    return null ;
+  }
+
+
+  
+
   //Display the linked list  
     public void display(){
         Node temp = head ;

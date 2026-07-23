@@ -90,7 +90,34 @@ public class LL {
     return val ;
 }
 
-  //get function to retrieve the value of a node at a specific index
+
+  //Delete a node at a specific index in the list
+
+  public int delete (int index){
+
+    if(index == 0){
+        return deleteFirst() ;
+    }
+
+    if(index == size - 1){
+        return deleteLast() ;
+    }
+
+    Node prev = get(index - 1);  // Get the node before the one to be deleted 
+
+    int val  = prev.next.val ;
+
+    prev.next = prev.next.next ; // Bypass the node to be deleted
+
+    size-- ;
+
+    return val ;
+
+
+
+  }
+
+  //get function to retrieve the node at a specific index in the list
 
   public Node get (int index){
     Node node = head ;

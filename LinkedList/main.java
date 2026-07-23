@@ -19,7 +19,9 @@ public class main {
 
         //list.display();
 
-        System.out.println("Deleted: " + list.deleteLast());
+        //System.out.println("Deleted: " + list.deleteLast());
+
+        System.out.println("Deleted: " + list.delete(2));
 
         list.display();
     }

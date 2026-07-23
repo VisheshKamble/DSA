@@ -2,7 +2,7 @@ package LinkedList;
 
 public class main {
     
-    public static void main (String[] args) {
+    public static void main( String[] args) {
         //when you initialize the LL the head and tail will be null and size will be 0
         LL list = new LL();
 
@@ -12,6 +12,14 @@ public class main {
         list.insertFirst(17);
         list.insertLast(10);
         list.insert(15, 2);
+        
+        list.display();
+        
+        //System.out.println("Deleted: " + list.deleteFirst());
+
+        //list.display();
+
+        System.out.println("Deleted: " + list.deleteLast());
 
         list.display();
     }

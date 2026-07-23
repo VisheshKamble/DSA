@@ -60,6 +60,46 @@ public class LL {
         size++ ;
     }
 
+
+  //Delete the first node of the list
+  
+  public int deleteFirst(){
+    int val = head.val ;
+    head = head.next ;
+    if (head == null) {
+      tail = null ;
+    }
+    size-- ;
+    return val ;
+  }
+
+  //Delete the last node of the list
+
+  public int deleteLast(){
+
+    if(size <= 1){
+        return deleteFirst() ;
+    }
+
+    Node secondLast = get(size - 2);
+
+    int val = tail.val ;
+    tail = secondLast ;
+    tail.next = null ;
+    size-- ;
+    return val ;
+}
+
+  //get function to retrieve the value of a node at a specific index
+
+  public Node get (int index){
+    Node node = head ;
+    for (int i = 0 ; i < index ; i++){
+        node = node.next ;
+    }
+    return node ;
+  }
+
   //Display the linked list  
     public void display(){
         Node temp = head ;

@@ -1,5 +1,6 @@
 package LinkedList;
 
+//main class to test the linked list implementation
 public class LL {
 
     private Node head ;
@@ -10,7 +11,7 @@ public class LL {
         this.size = 0 ;
     }
     
-
+//Insert a new node at the beginning of the list
     public void insertFirst (int val){
         Node node = new Node(val); //creating a new node with the value
         node.next = head ; //pointing the new node to the head
@@ -23,6 +24,20 @@ public class LL {
         size++ ; //incrementing the size of the list
     }
 
+//Insert a new node at the end of the list
+    public void insertLast (int val){
+
+        if(tail == null){
+            insertFirst(val); //if the list is empty, we can just call insertFirst to handle the insertion
+            return ;
+        }
+        Node node = new Node(val); //creating a new node with the value
+        tail.next = node ; //pointing the current tail to the new node
+        tail = node ; //updating the tail to the new node
+        size++ ; //incrementing the size of the list
+    }
+
+  //Display the linked list  
     public void display(){
         Node temp = head ;
 
@@ -33,6 +48,7 @@ public class LL {
         System.out.println("END");
     }
 
+//Inner class for Node
     private class Node {
         private int val ;
         private Node next ;

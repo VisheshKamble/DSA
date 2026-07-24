@@ -33,7 +33,8 @@ public class CLL {
                 System.out.print(temp.val + "-->");
                 temp = temp.next ;
         } while(temp != head);
-        
+      System.out.println("HEAD");
+          
     }
 }
 

@@ -39,6 +39,7 @@ public class main {
         list.insertFirst(7);
         list.insertFirst(17);
         list.insertLast(10);
+        list.inseretAfter(8, 15);
 
         list.display();
     }

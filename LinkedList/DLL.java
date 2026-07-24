@@ -44,6 +44,45 @@ public class DLL {
         node.prev = last ;
     }
 
+
+    //find a node with a specific value in the doubly linked list
+
+    public Node find (int value){
+        Node node = head ;
+
+        while(node.next != null){
+            if(node.val == value){
+                return node ;
+            }
+            node = node.next ;
+        }
+        return null ;
+    }
+
+
+    //insert a new node after a specific node in the doubly linked list
+
+
+    public void inseretAfter (int after , int val ){
+
+        Node p = find(after);
+
+        if(p == null){
+            System.out.println("does not exist");
+            return ;
+        }
+
+        Node node = new Node(val);
+
+        node.next = p.next ;
+        p.next = node ;
+        node.prev = p ;
+        if(node.next != null){
+            node.next.prev = node ;
+        }
+    }
+
+
 //display the doubly linked list
 
     public void display(){

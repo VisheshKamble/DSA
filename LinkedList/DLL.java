@@ -19,6 +19,31 @@ public class DLL {
     }
 
 
+    //insert at the end of the doubly linked list
+
+    public void insertLast(int val){
+
+        Node node = new Node(val);
+        node.next = null ;
+
+
+        if(head == null){
+            node.prev = null ;
+            head = node ;
+            return ;
+        }
+
+
+         Node last = head ;
+
+        while(last.next != null ){
+            last = last.next ;
+        }
+
+        last.next = node ;
+        node.prev = last ;
+    }
+
 //display the doubly linked list
 
     public void display(){
@@ -42,6 +67,9 @@ public class DLL {
         }
         System.out.println("START");
     }
+
+
+
 
     //Node class to represent each element in the doubly linked list
     private class Node {

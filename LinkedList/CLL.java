@@ -6,6 +6,8 @@ public class CLL {
     private Node tail ;
 
 
+    //insert in a circular linked list
+
     public void insert(int val) {
         Node node = new Node(val);
 
@@ -21,6 +23,33 @@ public class CLL {
         tail = node ;
     
 
+    }
+
+    //delete a node from a circular linked list
+
+    public void delete (int val){
+
+        Node node = head ;
+
+        if(node == null){
+            return ;
+        }
+
+        if(node.val == val){
+            head = head.next ;
+            tail.next = head ;
+            return ;
+        }
+
+        do {
+            Node n = node.next ;
+
+            if(n.val == val){
+                node.next = n.next ;
+                break;
+            }
+            node = node.next ;
+        }while(node != head);
     }
 
 

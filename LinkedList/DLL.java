@@ -19,16 +19,29 @@ public class DLL {
     }
 
 
+//display the doubly linked list
 
     public void display(){
         Node temp = head ;
+
+        Node last = null ;
         while (temp != null){
             System.out.print(temp.val + "<->") ;
+            last = temp ;
             temp = temp.next ;
+
         }
         System.out.println("END");
-    }
 
+
+        System.out.println("Display in reverse order");
+
+        while(last != null){
+            System.out.print(last.val + "<->") ;
+            last = last.prev ;
+        }
+        System.out.println("START");
+    }
 
     //Node class to represent each element in the doubly linked list
     private class Node {

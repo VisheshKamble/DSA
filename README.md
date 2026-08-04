@@ -7,3 +7,5 @@ Last 2 days remaining
 Last 1 day remaining 
 
 Tomm is the day
+
+Result Day

@@ -9,3 +9,6 @@ Last 1 day remaining
 Tomm is the day
 
 Result Day
+
+
+COEP is the destination guys we gonna do well we gonna do dsa everyday we gonna have fun and we gonna miss our love ones

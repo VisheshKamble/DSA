@@ -1,0 +1,65 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Nto1",
+			"type": "shell",
+			"command": "cmd.exe",
+			"args": [
+				"/d",
+				"/c",
+				"cd /d \"${workspaceFolder}\" && javac -d .java-build Recursion\\Nto1.java && java -cp .java-build Recursion.Nto1"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$javac"
+			],
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared",
+				"clear": true
+			}
+		},
+		{
+			"label": "Run Fibo",
+			"type": "shell",
+			"command": "cmd.exe",
+			"args": [
+				"/d",
+				"/c",
+				"cd /d \"${workspaceFolder}\" && javac -d .java-build Recursion\\Fibo.java && java -cp .java-build Recursion.Fibo"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$javac"
+			],
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared",
+				"clear": true
+			}
+		},
+		{
+			"label": "Run Current Java File (No Package)",
+			"type": "shell",
+			"command": "cmd.exe",
+			"args": [
+				"/d",
+				"/c",
+				"javac -d \"${workspaceFolder}\\.java-build\" \"${file}\" && java -cp \"${workspaceFolder}\\.java-build\" \"${fileBasenameNoExtension}\""
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"isBackground": false,
+			"problemMatcher": [
+				"$javac"
+			],
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared",
+				"clear": true
+			}
+		}
+	]
+}

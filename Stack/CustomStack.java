@@ -29,9 +29,9 @@ public class CustomStack {
 
     }
 
-    public int pop() throws Exception {
+    public int pop() throws StackExpection {
         if(isEmpty()){
-            throw new Exception("Stack is empty");
+            throw new StackExpection("Stack is empty");
         }
 
         int removed = data[ptr];
@@ -39,9 +39,9 @@ public class CustomStack {
         return removed;
     }
 
-    public int peek() throws Exception {
+    public int peek() throws StackExpection {
         if(isEmpty()){
-            throw new Exception("Stack is empty");
+            throw new StackExpection("Stack is empty");
         }
 
         return data[ptr];

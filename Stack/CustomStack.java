@@ -15,20 +15,17 @@ public class CustomStack {
         this.data = new int[size];
     }
 
-    public boolean push(int item){
+    public boolean push(int item) throws StackExpection {
 
         if(isFull()){
-            System.out.println("Stack is full");
-            return false;
+            throw new StackExpection("Stack is full");
         }
 
-         ptr++;
-
+        ptr++;
         data[ptr] = item;
         return true;
-
     }
-
+    
     public int pop() throws StackExpection {
         if(isEmpty()){
             throw new StackExpection("Stack is empty");

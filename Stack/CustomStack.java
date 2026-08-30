@@ -1,5 +1,4 @@
 package Stack;
-import java.util.* ;
 
 public class CustomStack {
     protected int[] data;
@@ -25,7 +24,7 @@ public class CustomStack {
         data[ptr] = item;
         return true;
     }
-    
+
     public int pop() throws StackExpection {
         if(isEmpty()){
             throw new StackExpection("Stack is empty");

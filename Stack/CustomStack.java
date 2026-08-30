@@ -29,6 +29,17 @@ public class CustomStack {
 
     }
 
+    public int pop() throws Exception {
+        if(isEmpty()){
+            throw new Exception("Stack is empty");
+        }
+
+        int removed = data[ptr];
+        ptr--;
+        return removed;
+    }
+    
+
     public boolean isFull() {
         return ptr == data.length - 1;
     }

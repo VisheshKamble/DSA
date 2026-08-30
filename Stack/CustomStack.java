@@ -13,4 +13,6 @@ public class CustomStack {
         this.data = new int[size];
     }
 
+    
+
 }

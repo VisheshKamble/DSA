@@ -10,8 +10,10 @@ public class queuemain {
         queue.insert(4);
         queue.insert(5);
 
-        System.out.println(queue.remove());
-        System.out.println(queue.remove());
-        System.out.println(queue.front());
+        queue.display();
+
+        System.out.println("Removed: " + queue.remove());
+        System.out.println("Removed: " + queue.remove());
+        System.out.println("Front: " + queue.front());
     }
 }

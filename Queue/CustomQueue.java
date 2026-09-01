@@ -5,7 +5,9 @@ public class CustomQueue {
     protected int[] data;
     private static final int DEFAULT_SIZE = 10;
 
-    private int end = 0 ;
+    protected int end = 0 ;
+    protected int front = 0 ;
+    int size = 0 ;  
 
     CustomQueue() {
         this(DEFAULT_SIZE);

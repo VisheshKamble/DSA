@@ -50,6 +50,8 @@ public class binarySearchTree {
 
 
     public void insert(int value){
+        //in the end we will return the root node of the tree after insertion
+        root = insertHelper(root , value);
        
     }
 
@@ -68,7 +70,7 @@ public class binarySearchTree {
     }
 
     node.height = Math.max(height(node.left) , height(node.right)) + 1 ;
-    
+
     return node ; 
 }
 

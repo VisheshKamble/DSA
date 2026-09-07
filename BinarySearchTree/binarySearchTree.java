@@ -74,4 +74,17 @@ public class binarySearchTree {
     return node ; 
 }
 
+
+ public boolean balanced(){
+        return balancedHelper(root);
+    }
+
+    private boolean balancedHelper(Node node){
+        if(node == null){
+            return true ;
+        }
+
+      return Math.abs(height(node.left) - height(node.right)) <= 1 && balancedHelper(node.left) && balancedHelper(node.right) ;
+    }
+
 }

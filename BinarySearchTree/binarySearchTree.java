@@ -109,6 +109,34 @@ public void populateTree(int nums[]){
         preOrderTraversalHelper(node.right);
     }
 
+    public void inOrderTraversal(){
+        inOrderTraversalHelper(root);
+    }
+
+    private void inOrderTraversalHelper(Node node){
+        if(node == null){
+            return ;
+        }
+
+        inOrderTraversalHelper(node.left);
+        System.out.print(node.value + " ");
+        inOrderTraversalHelper(node.right);
+    }
+
+    public void postOrderTraversal(){
+        postOrderTraversalHelper(root);
+    }
+
+    private void postOrderTraversalHelper(Node node){
+        if(node == null){
+            return ;
+        }
+
+        postOrderTraversalHelper(node.left);
+        postOrderTraversalHelper(node.right);
+        System.out.print(node.value + " ");
+    }
+
     public static void main(String[] args) {
         binarySearchTree bst = new binarySearchTree();
         int nums[] = { 10 , 5 , 15 , 3 , 7 , 12 , 17};

@@ -95,6 +95,20 @@ public void populateTree(int nums[]){
 
     }
 
+    public void preOrderTraversal(){
+        preOrderTraversalHelper(root);
+    }
+
+    private void preOrderTraversalHelper(Node node){
+        if(node == null){
+            return ;
+        }
+
+        System.out.print(node.value + " ");
+        preOrderTraversalHelper(node.left);
+        preOrderTraversalHelper(node.right);
+    }
+
     public static void main(String[] args) {
         binarySearchTree bst = new binarySearchTree();
         int nums[] = { 10 , 5 , 15 , 3 , 7 , 12 , 17};

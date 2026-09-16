@@ -34,14 +34,17 @@ haha
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -51,4 +54,8 @@ haha
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

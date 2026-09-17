@@ -61,12 +61,14 @@ haha
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Array
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |

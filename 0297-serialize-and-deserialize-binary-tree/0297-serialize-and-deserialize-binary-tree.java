@@ -9,37 +9,36 @@
  */
 public class Codec {
 
-    // Encodes a tree to a single string.
+    // Serialize
     public String serialize(TreeNode root) {
 
         if (root == null) {
             return "";
         }
 
+        StringBuilder ans = new StringBuilder();
+
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
-
-        String ans = "";
 
         while (!q.isEmpty()) {
 
             TreeNode node = q.poll();
 
             if (node == null) {
-                ans += "null,";
-            } 
-            else {
-                ans += node.val + ",";
+                ans.append("null,");
+            } else {
+                ans.append(node.val).append(",");
 
                 q.offer(node.left);
                 q.offer(node.right);
             }
         }
 
-        return ans;
+        return ans.toString();
     }
 
-    // Decodes your encoded data to tree.
+    // Deserialize
     public TreeNode deserialize(String data) {
 
         if (data.equals("")) {
@@ -63,14 +62,12 @@ public class Codec {
                 node.left = new TreeNode(Integer.parseInt(arr[i]));
                 q.offer(node.left);
             }
-
             i++;
 
             if (!arr[i].equals("null")) {
                 node.right = new TreeNode(Integer.parseInt(arr[i]));
                 q.offer(node.right);
             }
-
             i++;
         }
 

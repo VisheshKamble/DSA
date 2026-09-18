@@ -42,6 +42,7 @@ haha
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ haha
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +65,7 @@ haha
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -145,4 +148,8 @@ haha
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

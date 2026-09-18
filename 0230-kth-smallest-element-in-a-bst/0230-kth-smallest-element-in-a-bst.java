@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    int count = Integer.MIN_VALUE;
     public int kthSmallest(TreeNode root, int k) {
         ArrayList<Integer> list = new ArrayList<>();
         inorder(root , list);

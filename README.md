@@ -74,6 +74,7 @@ haha
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VisheshKamble/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -81,6 +82,7 @@ haha
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VisheshKamble/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |

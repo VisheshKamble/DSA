@@ -88,6 +88,7 @@ haha
 | ------- |
 | [0001-two-sum](https://github.com/VisheshKamble/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -110,6 +111,7 @@ haha
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -167,5 +169,6 @@ haha
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VisheshKamble/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

@@ -142,6 +142,7 @@ haha
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/VisheshKamble/DSA/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Greedy
 |  |
@@ -163,4 +164,8 @@ haha
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/VisheshKamble/DSA/tree/master/0572-subtree-of-another-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VisheshKamble/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

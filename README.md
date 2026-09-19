@@ -113,6 +113,7 @@ haha
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VisheshKamble/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Minimax
 |  |
 | ------- |
@@ -171,4 +172,8 @@ haha
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VisheshKamble/DSA/tree/master/0155-min-stack) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VisheshKamble/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

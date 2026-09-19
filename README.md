@@ -38,6 +38,7 @@ haha
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VisheshKamble/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -50,6 +51,7 @@ haha
 | [0100-same-tree](https://github.com/VisheshKamble/DSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VisheshKamble/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -63,6 +65,7 @@ haha
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VisheshKamble/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -102,6 +105,7 @@ haha
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
@@ -158,6 +162,7 @@ haha
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |

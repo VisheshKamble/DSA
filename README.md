@@ -139,6 +139,7 @@ haha
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,4 +182,8 @@ haha
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VisheshKamble/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

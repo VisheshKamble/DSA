@@ -143,6 +143,7 @@ haha
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
@@ -184,6 +185,7 @@ haha
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VisheshKamble/DSA/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Geometry
 |  |
 | ------- |

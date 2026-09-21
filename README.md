@@ -104,6 +104,7 @@ haha
 | ------- |
 | [0001-two-sum](https://github.com/VisheshKamble/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/VisheshKamble/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -203,4 +204,8 @@ haha
 | ------- |
 | [0189-rotate-array](https://github.com/VisheshKamble/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/VisheshKamble/DSA/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->

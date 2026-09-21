@@ -97,6 +97,7 @@ haha
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -208,4 +209,8 @@ haha
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/VisheshKamble/DSA/tree/master/0138-copy-list-with-random-pointer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

@@ -98,6 +98,7 @@ haha
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
+| [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ haha
 | [0124-binary-tree-maximum-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,6 +125,7 @@ haha
 | [0189-rotate-array](https://github.com/VisheshKamble/DSA/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VisheshKamble/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |

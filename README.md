@@ -100,6 +100,7 @@ haha
 | [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/VisheshKamble/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ haha
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VisheshKamble/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/VisheshKamble/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -213,4 +215,8 @@ haha
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/VisheshKamble/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->

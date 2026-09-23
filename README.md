@@ -87,6 +87,7 @@ haha
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VisheshKamble/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ haha
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VisheshKamble/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/VisheshKamble/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
@@ -110,6 +112,7 @@ haha
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VisheshKamble/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +124,7 @@ haha
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VisheshKamble/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +219,7 @@ haha
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VisheshKamble/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Segment Tree
 |  |
 | ------- |

@@ -111,6 +111,7 @@ haha
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/VisheshKamble/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VisheshKamble/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -157,6 +158,7 @@ haha
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3330-find-the-original-typed-string-i](https://github.com/VisheshKamble/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -167,6 +169,7 @@ haha
 | [0111-minimum-depth-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -180,6 +183,7 @@ haha
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## DP on Trees
 |  |
@@ -200,6 +204,7 @@ haha
 | [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VisheshKamble/DSA/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -226,4 +231,8 @@ haha
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/VisheshKamble/DSA/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->

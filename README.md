@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VisheshKamble/DSA/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -226,6 +229,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VisheshKamble/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VisheshKamble/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VisheshKamble/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

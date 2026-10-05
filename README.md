@@ -146,6 +146,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VisheshKamble/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2810-faulty-keyboard](https://github.com/VisheshKamble/DSA/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/VisheshKamble/DSA/tree/master/3174-clear-digits) |
 | [3330-find-the-original-typed-string-i](https://github.com/VisheshKamble/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -210,6 +211,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2810-faulty-keyboard](https://github.com/VisheshKamble/DSA/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/VisheshKamble/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers

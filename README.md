@@ -109,6 +109,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VisheshKamble/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/VisheshKamble/DSA/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/VisheshKamble/DSA/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VisheshKamble/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/VisheshKamble/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -137,6 +138,7 @@
 | [0022-generate-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/VisheshKamble/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/VisheshKamble/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -211,6 +213,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/VisheshKamble/DSA/tree/master/0412-fizz-buzz) |
 | [2810-faulty-keyboard](https://github.com/VisheshKamble/DSA/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/VisheshKamble/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |

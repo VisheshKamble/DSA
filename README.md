@@ -146,6 +146,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VisheshKamble/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3174-clear-digits](https://github.com/VisheshKamble/DSA/tree/master/3174-clear-digits) |
 | [3330-find-the-original-typed-string-i](https://github.com/VisheshKamble/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/VisheshKamble/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -200,6 +201,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VisheshKamble/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VisheshKamble/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VisheshKamble/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/VisheshKamble/DSA/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/VisheshKamble/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Geometry
 |  |
@@ -208,6 +210,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3174-clear-digits](https://github.com/VisheshKamble/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |

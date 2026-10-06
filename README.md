@@ -81,6 +81,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VisheshKamble/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshKamble/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/VisheshKamble/DSA/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/VisheshKamble/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
@@ -137,6 +138,7 @@
 | [0020-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/VisheshKamble/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/VisheshKamble/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/VisheshKamble/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -159,6 +161,7 @@
 | [0100-same-tree](https://github.com/VisheshKamble/DSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/VisheshKamble/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 ## Design
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/VisheshKamble/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/VisheshKamble/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

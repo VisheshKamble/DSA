@@ -95,6 +95,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/VisheshKamble/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/VisheshKamble/DSA/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VisheshKamble/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -154,6 +155,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/VisheshKamble/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/VisheshKamble/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/VisheshKamble/DSA/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VisheshKamble/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |

@@ -27,7 +27,7 @@ class Solution {
 
                 for(int j = 0 ; j < current.length() ; j++){
                     if( current.charAt(j)!= '(' && current.charAt(j) != ')'){
-                        continue;
+                        continue; //break the current and move to next
                     }
 
                     String next = current.substring(0 , j) + current.substring(j + 1);

@@ -151,6 +151,7 @@
 | [0032-longest-valid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/VisheshKamble/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/VisheshKamble/DSA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/VisheshKamble/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0856-score-of-parentheses) |
@@ -174,6 +175,7 @@
 | [0112-path-sum](https://github.com/VisheshKamble/DSA/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/VisheshKamble/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 ## Design
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

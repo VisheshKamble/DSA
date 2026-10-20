@@ -100,6 +100,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VisheshKamble/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VisheshKamble/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VisheshKamble/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/VisheshKamble/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/VisheshKamble/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VisheshKamble/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VisheshKamble/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/VisheshKamble/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Minimax
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/VisheshKamble/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VisheshKamble/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VisheshKamble/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/VisheshKamble/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## DP on Trees
 |  |
 | ------- |
@@ -334,6 +337,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VisheshKamble/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/VisheshKamble/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |

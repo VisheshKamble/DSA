@@ -35,6 +35,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/VisheshKamble/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VisheshKamble/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0189-rotate-array](https://github.com/VisheshKamble/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/VisheshKamble/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -211,6 +213,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/VisheshKamble/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
@@ -325,6 +328,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VisheshKamble/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Counting
 |  |
@@ -356,6 +360,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VisheshKamble/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |

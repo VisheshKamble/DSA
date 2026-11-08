@@ -37,6 +37,7 @@
 | [0572-subtree-of-another-tree](https://github.com/VisheshKamble/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VisheshKamble/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VisheshKamble/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VisheshKamble/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -90,6 +91,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VisheshKamble/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/VisheshKamble/DSA/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VisheshKamble/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VisheshKamble/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VisheshKamble/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/VisheshKamble/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -243,6 +245,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VisheshKamble/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/VisheshKamble/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VisheshKamble/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VisheshKamble/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VisheshKamble/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VisheshKamble/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VisheshKamble/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/VisheshKamble/DSA/tree/master/3665-twisted-mirror-path-count) |
@@ -371,6 +375,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/VisheshKamble/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/VisheshKamble/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bidirectional Search
 |  |
@@ -405,6 +410,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VisheshKamble/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VisheshKamble/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VisheshKamble/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VisheshKamble/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization

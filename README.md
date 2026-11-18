@@ -237,6 +237,7 @@
 | [2409-count-days-spent-together](https://github.com/VisheshKamble/DSA/tree/master/2409-count-days-spent-together) |
 | [2810-faulty-keyboard](https://github.com/VisheshKamble/DSA/tree/master/2810-faulty-keyboard) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/VisheshKamble/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/VisheshKamble/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-clear-digits](https://github.com/VisheshKamble/DSA/tree/master/3174-clear-digits) |
 | [3330-find-the-original-typed-string-i](https://github.com/VisheshKamble/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VisheshKamble/DSA/tree/master/3498-reverse-degree-of-a-string) |
